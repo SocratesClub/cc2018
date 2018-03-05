@@ -25,7 +25,7 @@
 | 6 | 4月11日 | 14:00-16:00 | Python基础: [Iterators](/PythonTour/10-Iterators.ipynb) & [List Comprehensions](/PythonTour/11-List-Comprehensions.ipynb)| 2学时|
 | 7 | 4月18日 | 14:00-16:00 | Python基础: [Generators and Generator Expressions](/PythonTour/12-Generators.ipynb)、[Modules and Packages](/PythonTour/13-Modules-and-Packages.ipynb)、[Strings and Regular Expressions](/PythonTour/14-Strings-and-Regular-Expressions.ipynb)| 2学时|
 | 8 | 4月25日 | 14:00-16:00 | Python基础: [Preview of Data Science Tools](/PythonTour/15-Preview-of-Data-Science-Tools.ipynb)、[Resources for Further Learning](/PythonTour/16-Further-Resources.ipynb)、[Appendix: Code To Reproduce Figures](/PythonTour/17-Figures.ipynb) | 2学时|
-| 9 | 5月2日 | 学生研究项目介绍 | 14:00-16:00  | 0学时|
+| 9 | 5月2日 |  14:00-16:00  | 学生研究项目介绍 |0学时|
 | 10 | 5月9日 | 14:00-16:00 | 数据科学: [IPython: Beyond Normal Python](/PythonDataScience/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)| 2学时
 | 11 | 5月16日 | 14:00-16:00 | 数据科学: [Introduction to NumPy](/PythonDataScience/notebooks/02.00-Introduction-to-NumPy.ipynb)| 2学时|
 | 12| 5月23日 | 14:00-16:00 |  数据科学:[Data Manipulation with Pandas](/PythonDataScience/notebooks/03.00-Introduction-to-Pandas.ipynb) | 2学时|
