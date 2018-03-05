@@ -17,24 +17,35 @@
 
 | 序号          |  日期         |    时间   |内容        | 课时数量   |
 | -------------|:-------------:|:-------------:|:-------------:|-----:|
-| 1 | 2月23日 | 14:00-18:00 | 引言：计算传播简介/课程简介 | 4学时
-| 2 | 3月9日 | 14:00-18:00 | 计算社会科学的编程工具 | 4学时|
-| 3 | 3月23日 | 14:00-18:00 |  网络科学基础（三元闭包、同质现象、正负关系） | 4学时|
-| 4 | 4月6日 | 14:00-18:00 | 万维网结构与链接分析 | 4学时|
-| 5 | 4月20日| 14:00-18:00 | 小世界网络模型与幂律分布| 4学时|
-| 6 | 5月4日 | 14:00-18:00 | 学生项目介绍 | 4学时|
-| 7 | 5月18日 | 14:00-18:00 | 使用NetworkX分析网络结构| 4学时|
-| 8 | 6月1日 | 14:00-18:00 | 计算广告基础（博弈、匹配、拍卖） | 4学时|
-| 9 | 6月15日 | 14:00-18:00 |计算广告的机制与推荐系统  | 4学时|
+| 1 | 3月7日 | 14:00-16:00 | 引言：计算传播学简介/课程简介 | 2学时
+| 2 | 3月14日 | 14:00-16:00 | Python基础: [Introduction](/PythonTour/00-Introduction.ipynb)、[How to Run Python Code](/PythonTour/01-How-to-Run-Python-Code.ipynb)、[Basic Python Syntax](/PythonTour/02-Basic-Python-Syntax.ipynb)| 2学时|
+| 3 | 3月21日 | 14:00-16:00 |  Python基础: [ Variables](/PythonTour/03-Semantics-Variables.ipynb) & [Operators](/PythonTour/04-Semantics-Operators.ipynb) |2学时|
+| 4 | 3月28日 | 14:00-16:00 | Python基础: [Built-In Scalar Types](/PythonTour/05-Built-in-Scalar-Types.ipynb) & [Data Structures](/PythonTour/06-Built-in-Data-Structures.ipynb) | 2学时|
+| 5 | 4月4日| 14:00-16:00 | Python基础: [Control Flow Statements](/PythonTour/07-Control-Flow-Statements.ipynb)、[Defining Functions](/PythonTour/08-Defining-Functions.ipynb)、[Errors and Exceptions](/PythonTour/09-Errors-and-Exceptions.ipynb)| 2学时|
+| 6 | 4月11日 | 14:00-16:00 | Python基础: [Iterators](/PythonTour/10-Iterators.ipynb) & [List Comprehensions](/PythonTour/11-List-Comprehensions.ipynb)| 2学时|
+| 7 | 4月18日 | 14:00-16:00 | Python基础: [Generators and Generator Expressions](/PythonTour/12-Generators.ipynb)、[Modules and Packages](/PythonTour/13-Modules-and-Packages.ipynb)、[Strings and Regular Expressions](/PythonTour/14-Strings-and-Regular-Expressions.ipynb)| 2学时|
+| 8 | 4月25日 | 14:00-16:00 | Python基础: [Preview of Data Science Tools](/PythonTour/15-Preview-of-Data-Science-Tools.ipynb)、[Resources for Further Learning](/PythonTour/16-Further-Resources.ipynb)、[Appendix: Code To Reproduce Figures](/PythonTour/17-Figures.ipynb) | 2学时|
+| 9 | 5月2日 | 学生研究项目介绍 | 14:00-16:00  | 0学时|
+| 10 | 5月9日 | 14:00-16:00 | 数据科学: [IPython: Beyond Normal Python](/PythonDataScience/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)| 2学时
+| 11 | 5月16日 | 14:00-16:00 | 数据科学: [Introduction to NumPy](/PythonDataScience/notebooks/02.00-Introduction-to-NumPy.ipynb)
+ | 2学时|
+| 12| 5月23日 | 14:00-16:00 |  数据科学:[Data Manipulation with Pandas](/PythonDataScience/notebooks/03.00-Introduction-to-Pandas.ipynb) | 2学时|
+| 13 | 5月30日 | 14:00-16:00 | 数据科学: [Visualization with Matplotlib](/PythonDataScience/notebooks/04.00-Introduction-To-Matplotlib.ipynb) | 2学时|
+| 14 | 6月6日| 14:00-16:00 |数据科学:[Machine Learning](/PythonDataScience/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
+| 15 | 6月13日 | 14:00-16:00 | 数据科学:[Machine Learning](/PythonDataScience/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
+| 16 | 6月20日 | 14:00-16:00 | 数据科学:[Machine Learning](/PythonDataScience/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
 
 
 ## 参考书（Recommended Textbooks）
-- **Whirlwind Tour Of Python** http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/tree/master/
+- **Whirlwind Tour Of Python** https://jakevdp.github.io/WhirlwindTourOfPython/
 - **Python Data Science Handbook** https://jakevdp.github.io/PythonDataScienceHandbook/
 - **Python for Data Analysis** by Wes McKinney, published by O'Reilly Media https://github.com/data-science-lab/pydata-book
 - Easley, David and [Jon Kleinberg](http://www.cs.cornell.edu/home/kleinber/). 2011.[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/). New York: Cambridge University. 大卫・伊斯利, & 乔恩・克莱因伯格. (2011). [网络、群体与市场](https://www.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E3%80%81%E7%BE%A4%E4%BD%93%E4%B8%8E%E5%B8%82%E5%9C%BA):揭示高度互联世界的行为原理与效应机制. 清华大学出版社.
 - 许小可、胡海波、张伦、王成军 （2015）社交网络上的计算传播学. 北京: 高等教育出版社.
+- 罗杰斯(2015). 数据新闻大趋势: 释放可视化报道的力量. 北京：中国人民大学出版社.
+- 菲利普・迈耶(2015). 精确新闻报道. 北京：中国人民大学出版社.
 - 刘鹏, 王超. (2015). 计算广告. 人民邮电出版社.
+- 戎文晋,张茜. (2015). 互联网广告的市场设计.北京: 电子工业出版社.
 
 ## 阅读文献
 
@@ -61,14 +72,16 @@
     - Kleinberg, J.M., 1999. Authoritative sources in a hyperlinked environment. Journal of the ACM (JACM), 46(5), pp.604-632.
     - Page, L., Brin, S., Motwani, R. and Winograd, T., 1999. The PageRank citation ranking Bringing order to the web. Stanford InfoLab.
 
-- *第十一周*
-    - 学生项目介绍
+
 
 - *第九周*
     - Barabási, A.L. and Albert, R., 1999. Emergence of scaling in random networks. science, 286(5439), pp.509-512.
     - Watts, D.J. and Strogatz, S.H., 1998. Collective dynamics of ‘small-world’networks. nature, 393(6684), pp.440-442.
     - Kleinberg, J.M., 2000. Navigation in a small world. Nature, 406(6798), pp.845-845.
     - 网络群体与市场 第18、20、21章  
+
+- *第十一周*
+    - 学生项目介绍
 
 - *第十三周*
     - Albert, R., Jeong, H. and Barabási, A.L., 1999. Internet: Diameter of the world-wide web. nature, 401(6749), pp.130-131.
@@ -83,32 +96,10 @@
     - 网络群体与市场 第15章
     - 推荐系统简介 http://nbviewer.jupyter.org/github/computational-class/cjc/blob/gh-pages/slides/13.recsys_intro.slides.html#/
 
-
-## 阅读分享顺序（每周两名同学）
-
-1. 131020008	 钱超峰 131140022	 杨洛君
-    - Watts, D.J., A twenty-first century science. Nature, 2007. 445(7127): p. 489-489.
-    - Lazer, D., et al., Life in the network: The coming age of computational social science. Science, 2009. 323(5915): p. 721.
-1. 151050013	 丁紫琪 151050035	 匡卉
-    - Onnela, Structure and tie strength in mobile communication networks, PNAS 2007
-    - Kossinets, G. and Watts, D.J., 2006. Empirical analysis of an evolving social network. science, 311(5757), pp.88-90.
-1. 151050042	 李亦玄 151050043	 李媛媛
-    - Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. New England journal of medicine, 357(4), 370-379.
-    - Broder, A., Kumar, R., Maghoul, F., Raghavan, P., Rajagopalan, S., Stata, R., Tomkins, A. and Wiener, J., 2000. Graph structure in the web. Computer networks, 33(1), pp.309-320.
-1. 151050044	 李月 151050069	 王浩成
-    - Kleinberg, J.M., 1999. Authoritative sources in a hyperlinked environment. Journal of the ACM (JACM), 46(5), pp.604-632.  
-    - Page, L., Brin, S., Motwani, R. and Winograd, T., 1999. The PageRank citation ranking: Bringing order to the web. Stanford InfoLab.
-1. 151050084	 夏娇娇 151050093	 遇晗
-    - Barabási, A.L. and Albert, R., 1999. Emergence of scaling in random networks. science, 286(5439), pp.509-512.
-    - Watts, D.J. and Strogatz, S.H., 1998. Collective dynamics of ‘small-world’networks. nature, 393(6684), pp.440-442.
-1. 151120166	 张昕沂 131050016	 伏倩    
-    - Kleinberg, J.M., 2000. Navigation in a small world. Nature, 406(6798), pp.845-845.
-    - Albert, R., Jeong, H. and Barabási, A.L., 1999. Internet: Diameter of the world-wide web. nature, 401(6749), pp.130-131.
-
 ## 相关课程
 
 - 复旦大学新媒体硕士项目《计算新闻传播学》课程  https://github.com/computational-class/cjc
-- 南京大学《数据新闻》2016课程 https://github.com/data-journalism/dj2016
+- 南京大学《数据新闻》2017课程 https://github.com/data-journalism/dj2017
 
 ![](https://github.com/computational-class/cc2017/blob/master/date.png)
 
