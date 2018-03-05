@@ -27,8 +27,7 @@
 | 8 | 4月25日 | 14:00-16:00 | Python基础: [Preview of Data Science Tools](/PythonTour/15-Preview-of-Data-Science-Tools.ipynb)、[Resources for Further Learning](/PythonTour/16-Further-Resources.ipynb)、[Appendix: Code To Reproduce Figures](/PythonTour/17-Figures.ipynb) | 2学时|
 | 9 | 5月2日 | 学生研究项目介绍 | 14:00-16:00  | 0学时|
 | 10 | 5月9日 | 14:00-16:00 | 数据科学: [IPython: Beyond Normal Python](/PythonDataScience/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)| 2学时
-| 11 | 5月16日 | 14:00-16:00 | 数据科学: [Introduction to NumPy](/PythonDataScience/notebooks/02.00-Introduction-to-NumPy.ipynb)
- | 2学时|
+| 11 | 5月16日 | 14:00-16:00 | 数据科学: [Introduction to NumPy](/PythonDataScience/notebooks/02.00-Introduction-to-NumPy.ipynb)| 2学时|
 | 12| 5月23日 | 14:00-16:00 |  数据科学:[Data Manipulation with Pandas](/PythonDataScience/notebooks/03.00-Introduction-to-Pandas.ipynb) | 2学时|
 | 13 | 5月30日 | 14:00-16:00 | 数据科学: [Visualization with Matplotlib](/PythonDataScience/notebooks/04.00-Introduction-To-Matplotlib.ipynb) | 2学时|
 | 14 | 6月6日| 14:00-16:00 |数据科学:[Machine Learning](/PythonDataScience/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
