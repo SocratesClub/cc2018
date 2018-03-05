@@ -35,6 +35,35 @@
 | 16 | 6月20日 | 14:00-16:00 | 数据科学:[Machine Learning](/PythonDataScience/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
 
 
+## 可选研究项目
+
+1. 分析《权力的游戏》中的核心人物及其演变
+
+**A Network analysis of Game of Thrones**: Analyze the network of characters in Game of Thrones and how it changes over the course of the books. https://www.datacamp.com/projects/76
+
+Get the [Data](https://github.com/computational-class/asoiaf)
+
+* Winter is Coming. Let's load the dataset ASAP
+* Time for some Network of Thrones
+* Populate the network with the DataFrame
+* Finding the most important character in Game of Thrones
+* Evolution of importance of characters over the books
+* What's up with Stannis Baratheon?
+* What does the Google PageRank algorithm tell us about Game of Thrones?
+* Correlation between different measures
+* Conclusion
+
+2. Kaggle比赛数据分析
+
+* https://www.kaggle.com/kaggle/meta-kaggle/data
+* https://www.kaggle.com/canggih/voted-kaggle-dataset
+
+## 案例分析
+
+- Wikileaks Afghanistan Data Analysis and Visualization https://github.com/chengjun/WikileaksAfghanistanDataAnalysis
+- Olympic Data Analysis https://github.com/data-journalism/olympic
+
+
 ## 参考书（Recommended Textbooks）
 - **Whirlwind Tour Of Python** https://jakevdp.github.io/WhirlwindTourOfPython/
 - **Python Data Science Handbook** https://jakevdp.github.io/PythonDataScienceHandbook/
