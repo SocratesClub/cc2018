@@ -53,7 +53,7 @@ Get the [Data](https://github.com/computational-class/asoiaf)
 * Correlation between different measures
 * Conclusion
 
-2. Kaggle比赛数据分析
+2. Kaggle比赛数据分析 《众包模式下的数据科学编程比赛》
 
 * https://www.kaggle.com/kaggle/meta-kaggle/data
 * https://www.kaggle.com/canggih/voted-kaggle-dataset
