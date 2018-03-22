@@ -58,6 +58,11 @@ Get the [Data](https://github.com/computational-class/asoiaf)
 * https://www.kaggle.com/kaggle/meta-kaggle/data
 * https://www.kaggle.com/canggih/voted-kaggle-dataset
 
+3. IMDB电影数据 《让电影成功的元素：基于IMDB数据的分析》
+
+* https://www.kaggle.com/tmdb/tmdb-movie-metadata
+* https://www.kaggle.com/PromptCloudHQ/imdb-data/data
+
 ## 案例分析
 
 - Wikileaks Afghanistan Data Analysis and Visualization https://github.com/chengjun/WikileaksAfghanistanDataAnalysis
