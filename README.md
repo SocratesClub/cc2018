@@ -14,7 +14,7 @@
 
 ## 课程内容
 
-https://hub.mybinder.org/user/computational-class-cc2018-fnvsqpca/tree
+
 
 
 | 序号          |  日期         |    时间   |内容        | 课时数量   |
@@ -36,6 +36,11 @@ https://hub.mybinder.org/user/computational-class-cc2018-fnvsqpca/tree
 | 15 | 6月13日 | 14:00-16:00 | 数据科学:[Machine Learning](/PythonDataScience/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
 | 16 | 6月20日 | 14:00-16:00 | 数据科学:[Machine Learning](/PythonDataScience/notebooks/05.00-Machine-Learning.ipynb)| 2学时|
 
+
+## Mybinder
+Mybinder.org turns a GitHub repo into a collection of interactive notebooks. Have a repository full of Jupyter notebooks? With Binder, open those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere.
+
+https://hub.mybinder.org/user/computational-class-cc2018-fnvsqpca/tree
 
 ## 可选研究项目
 
