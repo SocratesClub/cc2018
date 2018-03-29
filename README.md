@@ -14,6 +14,8 @@
 
 ## 课程内容
 
+https://hub.mybinder.org/user/computational-class-cc2018-fnvsqpca/tree
+
 
 | 序号          |  日期         |    时间   |内容        | 课时数量   |
 | -------------|:-------------:|:-------------:|:-------------:|-----:|
